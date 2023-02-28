@@ -1,0 +1,48 @@
+{
+  "todo": [
+    {
+      "id": 1,
+      "task": "Go for a Movie"
+    },
+    {
+      "task": "Buy a Grey Shirt",
+      "id": 2
+    },
+    {
+      "task": "Buy Eggs",
+      "id": 3
+    },
+    {
+      "task": "Workout",
+      "id": 4
+    },
+    {
+      "task": "Throw the trash",
+      "id": 5
+    },
+    {
+      "task": "Zoom Call at 6 p.m.",
+      "id": 6
+    },
+    {
+      "task": "Do the meal prep",
+      "id": 7
+    },
+    {
+      "task": "Finish Homework",
+      "id": 8
+    },
+    {
+      "task": "Design New Projects",
+      "id": 9
+    },
+    {
+      "task": "Dinner with Mom",
+      "id": 10
+    },
+    {
+      "task": "Clean the utensils",
+      "id": 11
+    }
+  ]
+}
