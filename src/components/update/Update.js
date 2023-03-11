@@ -1,4 +1,5 @@
 import React, {useState,useEffect} from 'react';
+import './Update.css';
 
 function Update(props) {
     const [data, setData] = useState();
